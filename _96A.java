@@ -7,10 +7,10 @@ public class _96A {
         String s=s1.nextLine();
         if(s.contains("0000000")||s.contains("1111111"))
         {
-            System.out.println("Yes");
+            System.out.println("YES");
         }
         else{
-            System.out.println("No");
+            System.out.println("YES");
         }
 s1.close();
     }
