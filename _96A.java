@@ -10,7 +10,7 @@ public class _96A {
             System.out.println("YES");
         }
         else{
-            System.out.println("YES");
+            System.out.println("NO");
         }
 s1.close();
     }
