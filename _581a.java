@@ -10,8 +10,7 @@ public class _581a {
         int fashionday = Math.min(a, b);
         int samecolor = Math.abs(a - b) / 2;
         System.out.println(fashionday + " " + samecolor);   
-        sc.close();
-
+        sc.close(); 
     }
 
 }
