@@ -7,5 +7,6 @@ public class _4aWatermellon {
             System.out.println("Yes");
         }
         else {System.out.println("No");
-    }}
+    }
+    }
 }
