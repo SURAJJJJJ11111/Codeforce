@@ -23,7 +23,6 @@ public class _59a {
                 System.out.println(s.toLowerCase());
             }
         }
-
     }
     
 
