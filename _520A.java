@@ -1,6 +1,6 @@
 
 // 520A - Pangram
-import java.util.*;
+import java.util.*;  
 
 public class _520A {
     public static void main(String[] args) {
