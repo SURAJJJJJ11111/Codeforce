@@ -13,7 +13,7 @@ public class _705A {
         }
         else{
             sb.append("I love ");
-        }
+        }    
         if(i==n-1){
             sb.append("it ");
         }
