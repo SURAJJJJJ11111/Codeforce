@@ -5,7 +5,7 @@ public class _271A {
         Scanner s=new Scanner(System.in);
         int n=s.nextInt();
         while(true)
-        
+         
     { 
         n++;
         String year=String.valueOf(n);
