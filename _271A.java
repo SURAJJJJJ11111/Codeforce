@@ -12,7 +12,11 @@ public class _271A {
          if(year.charAt(0)!=year.charAt(1)&&year.charAt(0)!=year.charAt(2)&&year.charAt(0)!=year.charAt(3)&&year.charAt(1)!=year.charAt(2)&&year.charAt(1)!=year.charAt(3)&&year.charAt(2)!=year.charAt(3)){
             System.out.println(year);
             break;
+
         }
+
+
+        
     }
     }
 }
