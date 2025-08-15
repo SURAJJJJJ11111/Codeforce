@@ -15,7 +15,6 @@ public class _116A {
                 maxcap=passanger;
             }
             stops--;
-
         }
         System.out.println(maxcap);
 s.close();
