@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+  
 
 public class _1030A {
     public static void main(String[] args) {
