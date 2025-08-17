@@ -10,6 +10,7 @@ public class _1030A {
             int choice=s.nextInt();
             if(choice==1){
                ishard=true;
+               
                break;
             }
             people--;
