@@ -9,8 +9,7 @@ public class _1328A {
             long a = s1.nextLong();
             long b = s1.nextLong();
             if(a%b==0){
-                System.out.println("0");
-                
+                System.out.println("0");  
             }
             else{
                 System.out.println(b-(a%b));
