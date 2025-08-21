@@ -10,6 +10,9 @@ public class paac {
             if(n.length()<10){
                 System.out.println(n);
             }
+
+
+            v
             else{
                 String b=n.substring(1,n.length()-1);
                 System.out.println(n.charAt(0)+""+b.length()+""+n.charAt(n.length()-1));
