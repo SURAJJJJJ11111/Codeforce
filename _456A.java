@@ -9,6 +9,7 @@ public class _456A {
             laptops[i][0] = sc.nextInt();
             laptops[i][1] = sc.nextInt();
         }
+         
         Arrays.sort(laptops, (a, b) -> a[0] - b[0]);
         for (int i = 0; i < n - 1; i++) {
             if (laptops[i][1] > laptops[i + 1][1]) {
