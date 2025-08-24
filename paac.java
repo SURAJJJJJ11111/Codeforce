@@ -13,7 +13,8 @@ public class paac {
 
  
             else{
-                String b=n.substring(1,n.length()-1);
+             
+                 String b=n.substring(1,n.length()-1);
                 System.out.println(n.charAt(0)+""+b.length()+""+n.charAt(n.length()-1));
 
             }
