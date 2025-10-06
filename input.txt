@@ -1,5 +1,6 @@
-4
-word
-localization
-internationalization
-pneumonoultramicroscopicsilicovolcanoconiosis
+5
+coolforsez
+cadafurcie
+codeforces
+paiuforces
+forcescode
