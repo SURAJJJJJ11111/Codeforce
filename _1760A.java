@@ -15,6 +15,7 @@ public class _1760A {
             // } else {
             //     System.out.println(c);
           
+          
             int arr[]={a,b,c};
             Arrays.sort(arr);
             System.out.println(arr[1]);
