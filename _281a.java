@@ -6,8 +6,7 @@ public class _281a {
         String str=s.next();
        String first=str.substring(0,1).toUpperCase();
        String rest=str.substring(1);
-       System.out.println(first+rest);
-
+       System.out.println(first+rest); 
         s.close();
     }
     
