@@ -8,6 +8,13 @@ public class _281a {
        String rest=str.substring(1);
        System.out.println(first+rest); 
         s.close();
+
+
+
+
+
+
+        
     }
     
 }
