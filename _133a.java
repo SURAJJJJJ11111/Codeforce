@@ -9,6 +9,9 @@ public class _133a {
     if(s.contains("H") || s.contains("Q") || s.contains("9")){
         System.out.println("YES");
     }
+
+
+    
     else{
         System.out.println("NO");
     }
