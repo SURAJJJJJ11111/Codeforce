@@ -15,9 +15,6 @@ public class _133a {
 
 
 
-
-
-
     
     else{
         System.out.println("NO");
