@@ -5,6 +5,7 @@ import java.util.*;
 public class _58A {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
+        
         String input = sc.nextLine().toLowerCase();
         String target = "hello";
         int cnt = 0;
