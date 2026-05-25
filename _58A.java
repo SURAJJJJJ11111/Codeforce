@@ -7,7 +7,7 @@ public class _58A {
         Scanner sc = new Scanner(System.in);
         
         String input = sc.nextLine().toLowerCase();
-        String target = "hello";
+          String target = "hello";
         int cnt = 0;
         for (int i = 0; i < input.length(); i++) {
             if (cnt<target.length()&&input.charAt(i) == target.charAt(cnt)) {
