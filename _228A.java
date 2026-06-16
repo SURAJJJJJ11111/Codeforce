@@ -7,6 +7,11 @@ public class _228A {
         Set<Integer> set = new HashSet<>();
         for (int i = 0; i < 4; i++)
             set.add(sc.nextInt());
+
+
+
+
+        
         System.out.println(4 - set.size());
     }
 
