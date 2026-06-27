@@ -9,7 +9,7 @@ public class paac {
             String n = sc.nextLine();
             if (n.length() < 10) {
                 System.out.println(n);
-            }
+            } 
 
             else {
 
