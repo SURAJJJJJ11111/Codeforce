@@ -2,7 +2,6 @@
 import java.util.*;
 
 public class _41A {
-
     public static void main(String[] args) {
         Scanner s1 = new Scanner(System.in);
         String first = s1.next();
@@ -14,7 +13,6 @@ public class _41A {
         else{
             System.out.println("NO");
         }
-
        
         // String reversed="";
         // for(int i=first.length()-1;i>=0;i--){
