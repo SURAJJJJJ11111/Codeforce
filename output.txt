@@ -1,2 +1,1 @@
-2
-palindrome
+Missing: 5 Duplicate: 2
