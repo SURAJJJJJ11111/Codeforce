@@ -22,5 +22,7 @@ public class countsunday {
                 break;
             }
         }
+
+        System.out.println(date);
     }
 }
